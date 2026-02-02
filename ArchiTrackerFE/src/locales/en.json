@@ -1,0 +1,52 @@
+{
+  "app": {
+    "name": "ArchiTracker",
+    "tagline": "Smart architectural operations"
+  },
+  "topbar": {
+    "search": "Search projects, sites...",
+    "language": "Language",
+    "theme": {
+      "light": "Light mode",
+      "dark": "Dark mode"
+    },
+    "notifications": "Notifications",
+    "newReport": "New report"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "subtitle": "Monitor your architecture programs in real time",
+    "welcome": "Welcome",
+    "stats": {
+      "activeProjects": "Active projects",
+      "resolvedAlerts": "Incidents resolved",
+      "reviewsPending": "Reviews pending",
+      "siteVisits": "Site visits scheduled"
+    },
+    "activity": {
+      "title": "Recent activity",
+      "documents": "Documents updated",
+      "decisions": "Decisions taken",
+      "teamNotes": "Team notes"
+    },
+    "reviews": {
+      "title": "Upcoming reviews",
+      "next": "Next review",
+      "status": {
+        "pending": "Pending",
+        "confirmed": "Confirmed",
+        "draft": "Draft"
+      },
+      "type": {
+        "design": "Design",
+        "tech": "Technical",
+        "site": "Site visit"
+      }
+    }
+  },
+  "common": {
+    "viewAll": "View all",
+    "today": "Today",
+    "updated": "Updated"
+  }
+}

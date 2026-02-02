@@ -1,0 +1,52 @@
+{
+  "app": {
+    "name": "ArchiTracker",
+    "tagline": "Pilotage architectural intelligent"
+  },
+  "topbar": {
+    "search": "Rechercher un projet, un site...",
+    "language": "Langue",
+    "theme": {
+      "light": "Mode clair",
+      "dark": "Mode sombre"
+    },
+    "notifications": "Notifications",
+    "newReport": "Nouveau rapport"
+  },
+  "dashboard": {
+    "title": "Tableau de bord",
+    "subtitle": "Suivez vos projets architecturaux en temps réel",
+    "welcome": "Bienvenue",
+    "stats": {
+      "activeProjects": "Projets actifs",
+      "resolvedAlerts": "Alertes résolues",
+      "reviewsPending": "Revues en attente",
+      "siteVisits": "Visites planifiées"
+    },
+    "activity": {
+      "title": "Activité récente",
+      "documents": "Documents mis à jour",
+      "decisions": "Décisions prises",
+      "teamNotes": "Notes d'équipe"
+    },
+    "reviews": {
+      "title": "Revues à venir",
+      "next": "Prochaine revue",
+      "status": {
+        "pending": "À confirmer",
+        "confirmed": "Confirmée",
+        "draft": "Brouillon"
+      },
+      "type": {
+        "design": "Conception",
+        "tech": "Technique",
+        "site": "Chantier"
+      }
+    }
+  },
+  "common": {
+    "viewAll": "Voir tout",
+    "today": "Aujourd'hui",
+    "updated": "Mis à jour"
+  }
+}
